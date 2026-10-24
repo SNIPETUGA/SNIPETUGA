@@ -18,4 +18,4 @@ Looking for: junior opportunities in Lisbon or remote (Europe)
 
 #### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/bernardo-santos-1b8b25108) · [Email](refbernardosilva@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bernardo-santos-1b8b25108) · [Email](mailto:refbernardosilva@gmail.com)
