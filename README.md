@@ -1,6 +1,6 @@
 Hi, I'm Bernardo 👋
 
-Career-changer moving into software development, based in Lisbon 🇵🇹.
+Career-changer moving into software development, based in Caldas da Rainha 🇵🇹.
 I learn by building real tools that solve real problems for people around me.
 
 🎓 Currently studying Information Systems Technologies & Programming (CET, EQF Level 5)
